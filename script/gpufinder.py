@@ -33,7 +33,7 @@ set_web_open = 1 # Webを開く 1:有 2:無 (無しはエラー)
 set_web_size = [1000,1000] # Webのサイズ (x,y)
 set_csv_open = 2 # CSVを開く 1:有 2:無
 set_notify = 2 # LINENotifyに通知を送信 1:有 2:無
-line_notify_token = 'SwB5P7J4GXHp2QWrqr2YjgkChKxKsf7HQ1ZTLbCxgVY' # LINEトークン
+line_notify_token = '' # LINEトークン
 set_notify_how = 1 # LINENotifyへの通知回数[回]
 set_notify_rehow = 2 # 在庫の再入荷を通知する 1:有 2:無
 
