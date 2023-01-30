@@ -1,6 +1,7 @@
 # GPU-Stock-Checker
 
 '''
+
 #設定
 product_name = 'RTX3050' #商品名
 product_keyword_a = 'RTX' #キーワード1
