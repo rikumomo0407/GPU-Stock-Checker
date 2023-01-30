@@ -18,3 +18,9 @@ line_notify_token = '' # LINEトークン
 set_notify_how = 1 # LINENotifyへの通知回数[回]
 set_notify_rehow = 2 # 在庫の再入荷を通知する 1:有 2:無
 '''
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
