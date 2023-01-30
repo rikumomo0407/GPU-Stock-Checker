@@ -1,7 +1,6 @@
 # GPU-Stock-Checker
 
-'''
-
+```
 #設定
 product_name = 'RTX3050' #商品名
 product_keyword_a = 'RTX' #キーワード1
@@ -17,10 +16,4 @@ set_notify = 2 # LINENotifyに通知を送信 1:有 2:無
 line_notify_token = '' # LINEトークン
 set_notify_how = 1 # LINENotifyへの通知回数[回]
 set_notify_rehow = 2 # 在庫の再入荷を通知する 1:有 2:無
-'''
-
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
 ```
